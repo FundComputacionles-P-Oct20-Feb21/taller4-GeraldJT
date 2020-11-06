@@ -1,0 +1,30 @@
+Algoritmo 1
+1)Inicio 
+2)Ingresar datos de altura del triangulo
+3)Ingresar la base del triángulo
+4)Multiplicar la base por altura
+5)Dividir el producto de base por altura para dos
+6)Mostrar un mensaje con el resultado del área del tirángulo.
+7)fin
+
+Miniespecificación.
+
+1.Inicio.
+// Declaro variables.
+2. altura, d[0,n]
+3. base, d[0,n]
+4. áreadeltriángulo, d[0,n]
+
+// Pido datos por entrada de teclado.
+5. Escribir "Ingrese la altura del triángulo"
+6. Leer altura
+7. Escribir "Ingrese la base del triángulo"
+8. Leer base
+
+// Proceso.
+9. áreadeltriángulo <-- base * altura / 2
+
+// Salida.
+10. Escribir "El área del triángulo es:" + áreadeltriángulo
+
+11. Fin

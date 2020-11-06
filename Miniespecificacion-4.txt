@@ -1,0 +1,36 @@
+Algoritmo 4
+1)Inicio
+2)Se pide ingresar el valor del CPU.
+3)Se pide ingresar el valor del teclado.
+4)Se pide ingresar el valor de la pantalla.
+5)Se pide ingresar el valor del ratón.
+6)Se suma el valor del CPU,teclado,pantalla y ratón.
+7)Se muestra en pantalla el valor total obtenido.
+8)Fin.
+
+Miniespecificación 
+1.Inico
+// Declaro variables
+2. preciocpu, d[0,n]
+3. precioteclado, d[0,n]
+4. preciopantalla, d[0,n]
+5. precioraton, d[0,n]
+6. total, d[0,n]
+
+// Pido ingresar datos por teclado - entrada
+7. Escribir "Ingresar el precio del CPU"
+8. Leer preciocpu
+9. Escribir "Ingresar el precio del teclado"
+10. Leer precioteclado
+11. Escribir "Ingresar el precio de la pantalla"
+12. Leer preciopantalla
+13. Escribir "Ingresar el precio del ratón"
+14. Leer precioraton
+
+// Proceso
+15. total <-- preciocpu + precioteclado + preciopantalla + precioraton
+
+//  Salida
+16. Escribir "Costo total de la computadora de escritorio es:" + total
+
+17. Fin

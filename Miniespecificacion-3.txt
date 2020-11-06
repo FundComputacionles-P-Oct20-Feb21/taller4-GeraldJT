@@ -1,0 +1,29 @@
+Algoritmo 3
+1)Inicio.
+2)Se pide ingresar el el costo por minuto.
+3)Se pide ingresar el número de minutos consumidos al mes.
+4)Calcula mediante una multiplicación de los minutos consumidos por el costo de minuto.
+5)Se presenta el resultado en pantalla.
+6)Fin.
+
+Miniespecificaciones
+1. Inicio
+
+// Declaro variables
+2. cminutos, d[0,n]
+3. minutoscmes, d[0,n]
+4. Total, d[0,n]
+
+// Pido datos por teclado - entrada
+5. Escribir "Ingrese el costo por minuto"
+6. Leer cminutos
+7. Escribir "Ingrese los minutos consumidos al mes"
+8. Leer minutoscmes
+
+// Proceso
+9. total <-- cminutos * minutoscmes
+
+// Salida
+10. Escribir "El costo total al mes es:" + total
+
+11.Fin
